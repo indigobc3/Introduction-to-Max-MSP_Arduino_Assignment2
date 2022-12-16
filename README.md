@@ -7,3 +7,4 @@ Assignment2_Max MSP_Arduino_//Piezo de Resistance
 
 
 
+<img width="920" alt="Max Patch Presentation" src="https://user-images.githubusercontent.com/100689371/208201640-4e753313-b75d-4943-9680-7b6f994bb22e.png">
